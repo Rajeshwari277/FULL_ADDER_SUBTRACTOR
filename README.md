@@ -55,7 +55,7 @@ Developed by: Nandhini M RegisterNumber: 24900996
 ![Screenshot 2024-12-21 092510](https://github.com/user-attachments/assets/c3b3d42f-34dd-4963-803b-6d767ac42af1)
 
 **Output Timing Waveform**
-![Uploading Screenshot 2024-12-21 092851.png…]()
+![Screenshot 2024-12-21 092851](https://github.com/user-attachments/assets/cf3e5072-e775-418c-8799-2379eb5e1a1c)
 
 **Result:**
 
